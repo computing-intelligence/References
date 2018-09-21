@@ -24,7 +24,7 @@ Machine Leanring is a subset of Artificial Intelligence. But in recent years, th
 Because the complexity of Artificial Intelligence related domain. I make a public libriary which consists the book I have read and think it valuable. These books, I want to share with you, if you want to learn more about *algorithms*, especially in *natural language processing*
 
 
-# Index of Books I collected in Recent Years
+# Index of Books I collected in this repository 
 
 |Programming and Software Engineer|
 |----|
@@ -38,10 +38,10 @@ Because the complexity of Artificial Intelligence related domain. I make a publi
 |http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html|
 |http://worrydream.com/refs/Brooks-NoSilverBullet.pdf|
 |Epigrams on Programming|
-|[Code Complete](https://www.amazon.com/exec/obidos/ASIN/0735619670)<br>* *|
-|[Writing Solid Code](https://www.amazon.com/dp/1570740550)<br>* *|
-|[Building Secure Software](https://www.amazon.com/exec/obidos/ASIN/020172152X)<br>* *|
-|[Go To](https://www.amazon.com/exec/obidos/ASIN/0465042252)<br>* *|
+|[Code Complete](https://www.amazon.com/exec/obidos/ASIN/0735619670)|
+|[Writing Solid Code](https://www.amazon.com/dp/1570740550)|
+|[Building Secure Software](https://www.amazon.com/exec/obidos/ASIN/020172152X)|
+|[Go To](https://www.amazon.com/exec/obidos/ASIN/0465042252)|
 
 
 |NLP|
@@ -51,15 +51,15 @@ Because the complexity of Artificial Intelligence related domain. I make a publi
 
 |Math Concepts|
 |---|
-|[How to Lie with Statistics](https://www.amazon.com/exec/obidos/ASIN/0393310728)<br>* *|
-|[Chances Are . . .: Adventures in Probability](https://www.amazon.com/exec/obidos/ASIN/0670034878)<br>* *|
-|[Innumeracy: Mathematical Illiteracy and Its Consequences ](https://www.amazon.com/exec/obidos/ASIN/0679726012)<br>* *|
+|[How to Lie with Statistics](https://www.amazon.com/exec/obidos/ASIN/0393310728)|
+|[Chances Are . . .: Adventures in Probability](https://www.amazon.com/exec/obidos/ASIN/0670034878)|
+|[Innumeracy: Mathematical Illiteracy and Its Consequences ](https://www.amazon.com/exec/obidos/ASIN/0679726012)|
 
 |Information Retrieve and Data Mining|
 |---|
-|[A Practical Introducation to Informaiton Retrieval and Text Mining](./information-retrieve/ChengXiang Zhai, Sean Massung-Text Data Management and Analysis_ A Practical Introduction to Information Retrieval and Text Mining-Morgan & Claypool (2016).pdf)<br>* *|
-|[Introduction to Information Retrieval](./information-retrieve/Christopher D Manning_ Prabhakar Raghavan_ Hinrich Schutze-Introduction to information retrieval-Cambridge University Press (2008).pdf)<br>* *|
-|[Data Mining](./data-mining/DataMining.pdf)<br>* *|
+|[A Practical Introducation to Informaiton Retrieval and Text Mining](./information-retrieve/ChengXiang Zhai, Sean Massung-Text Data Management and Analysis_ A Practical Introduction to Information Retrieval and Text Mining-Morgan & Claypool (2016).pdf)|
+|[Introduction to Information Retrieval](./information-retrieve/Christopher D Manning_ Prabhakar Raghavan_ Hinrich Schutze-Introduction to information retrieval-Cambridge University Press (2008).pdf)|
+|[Data Mining](./data-mining/DataMining.pdf)|
 
 |Computer Science Algorithms, Concepts|
 |---|
@@ -71,8 +71,8 @@ Because the complexity of Artificial Intelligence related domain. I make a publi
 
 |Other References|
 |---|
-|[Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems](https://www.amazon.com/exec/obidos/ASIN/0321657292)<br>* *|
-|[The Elements of Style](https://www.amazon.com/exec/obidos/ASIN/020530902X)<br>* *|
+|[Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems](https://www.amazon.com/exec/obidos/ASIN/0321657292)|
+|[The Elements of Style](https://www.amazon.com/exec/obidos/ASIN/020530902X)|
 
 
 # Python etudes
