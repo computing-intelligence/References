@@ -10,9 +10,9 @@ NLP reference is a collection for nlp learning, which includs following topics:
 + Machine Leanring
 + Automata and Complier
 
-The reason why dose this exist is that I have worked in NLP domain for several years. The Natrual Langulage Processing is very complicated. One NLP problem may need several technologies and domans to solve it. And the good ** Programming ** ability is an ensuring for ** pragmatic ** programming. The `pragmatic` here I means several important features for a programming. 
+The reason why dose this exist is that I have worked in NLP domain for several years. The Natrual Langulage Processing is very complicated. One NLP problem may need several technologies and domans to solve it. And a **good programming** ability is an ensuring for **pragmatic** programming. The `pragmatic` here I means several important features for a programming. 
 
-+ Right: A programming must be right, cannot be `maybe` right or `some` right, the quality ensure need automatical testing, need test cases, need good documentation.
++ Correctness: A programming must be right, cannot be `maybe` right or `some` right, the quality ensure need automatical testing, need test cases, need good documentation.
 + Explicity: A programming must be explicity, some programming works but it's hard to understand. Explicity and concise are often tradeoff. However, the target for a ** serious ** programmer should focue `explicaity` **and** `concise`. After practicing and trying over and over again, the explicity and concise would be the same thing. Because your programming is `real` concise, not simply `short`, your programming becomes `explicity`. And because your programming is explicity, and do not make other confused, your programming becomes `concise` eventually. 
 + Efficient: A programming must be efficient, the bottleneck of a programming usually is a 'stupid' implementation.
 + Scalable: A programming must be modified or composited easily. 
