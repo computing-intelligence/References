@@ -81,4 +81,4 @@ I got the idea from the Peter Norvig [pytudes](https://github.com/norvig/pytudes
 
 # No Profit
 
-These books are no profit for everyone. If you have license issure, please contact me. 
+These books are no profit for everyone. If you have license issue, please contact me. 
