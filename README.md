@@ -10,7 +10,7 @@
 + Machine Leanring
 + Automata and Complier
 
-The reason why dose this exist is that I have worked in NLP domain for several years. The Natrual Langulage Processing is **really** complicated, maybe the most hard problem in AI domain. One NLP issue may call for several technologies to solve it. And a **good programming** ability is necessary for solve a problem using **pragmatic** way. The `pragmatic` here I means several important features for a programming. 
+The reason why dose this exist is that I have worked in NLP domain for several years. The Natrual Langulage Processing is **really** complicated, maybe is the hardest domain in Artificial Intelligence. One NLP issue may call for several technologies to solve it. Besides the theoretical knowledge, the NLP also need a string **good programming** ability to solve related problems. A **good programming** means solving a problem using **pragmatic** way. Personally, the `pragmatic` way consists several important features for a programming. 
 
 + Correctness: A programming must be right, cannot be `maybe` right or `some` right, the quality ensuring need automatical testing, need test cases, need good documentation.
 + Explicity: A programming must be explicity, some programming works but it's hard to understand. Explicity and concise are often tradeoff. However, the target for a **serious** programmer should focue `explicaity` **and** `concise`. After practicing and trying over and over again, the explicity and concise would be the same thing. Because your programming is `real` concise, not simply `short`, your programming becomes `explicity`. And because your programming is explicity, and do not make other persons confused, your programming becomes `concise` eventually. 
