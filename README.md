@@ -1,6 +1,6 @@
-# NLP Reference
+# Houchang Technology Insitute Artificial Intelligence References
 
-*NLP reference* is a collection for Natural Language Processing(NLP) learning, which includs following topics:
+*reference* is a collection for Natural Language Processing(NLP) learning, which includs following topics:
 
 + Programming
 + Artificial Inteiilgence
