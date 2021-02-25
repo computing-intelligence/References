@@ -1,4 +1,4 @@
-# Houchang Technology Insitute Artificial Intelligence References
+# References of Learning AI
 
 *reference* is a collection for Natural Language Processing(NLP) learning, which includs following topics:
 
@@ -74,6 +74,12 @@ Because the complexity of Artificial Intelligence related domain. I make a publi
 |[Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems](https://www.amazon.com/exec/obidos/ASIN/0321657292)|
 |[The Elements of Style](https://www.amazon.com/exec/obidos/ASIN/020530902X)|
 
+# some open courses for learning
+
+1. Learning Python First Step: https://www.coursera.org/specializations/python
+2. Learning Advacned Python Programming: https://www.udacity.com/course/design-of-computer-programs--cs212
+3. Computing Principles:https://www.coursera.org/learn/build-a-computer? AND  https://www.coursera.org/learn/nand2tetris2 
+4. Algorithm Design and Analysis: https://www.edx.org/course/algorithms-design-and-analysis
 
 # Python etudes
 
